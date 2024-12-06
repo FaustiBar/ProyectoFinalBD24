@@ -1,0 +1,329 @@
+id_socio;nombre;tribuna;tiempo_de_reserva;cant_asientos
+19;Nicolás Flores;Palcos;3 ;2 
+311;Nicolás Flores;Palcos;3 ;2 
+485;Joyce Drake;Tribuna Oeste;7 ;4 
+41;Pablo Esquivel;Socios;5 ;4 
+333;Pablo Esquivel;Socios;5 ;4 
+467;Luella Orr;Palcos;10 ;4 
+656;Mohammed Wilcox;Tribuna Norte;6 ;3 
+904;Arjun Lopez;Palcos;12 ;2 
+88;Raquel Guzmán;Tribuna Sur;8 ;1 
+380;Raquel Guzmán;Tribuna Sur;8 ;1 
+939;Lucille O’Neal;Palcos;9 ;3 
+650;Koa Monroe;Tribuna Oeste;1 ;1 
+604;Banks Mills;Tribuna Oeste;3 ;1 
+886;Dalton Villanueva;Socios;11 ;3 
+154;Ignacio Acosta;Socios;7 ;3 
+704;Rhett Diaz;Socios;6 ;2 
+77;Antonio Prado;Tribuna Norte;7 ;2 
+369;Antonio Prado;Tribuna Norte;7 ;2 
+796;Zion Moses;Socios;8 ;4 
+571;Riley Allison;Tribuna Norte;6 ;1 
+613;Selena Doyle;Socios;3 ;2 
+596;Zahir Montes;Tribuna Norte;2 ;4 
+921;Adele McLaughlin;Palcos;12 ;2 
+821;Luisa Stein;Palcos;7 ;3 
+75;Esteban Solano;Tribuna Oeste;12 ;2 
+367;Esteban Solano;Tribuna Oeste;12 ;2 
+181;Álvaro Sánchez;Tribuna Norte;12 ;1 
+213;Paula Villanueva;Tribuna Sur;12 ;2 
+34;Sara Ibáñez;Tribuna Oeste;11 ;1 
+326;Sara Ibáñez;Tribuna Oeste;11 ;1 
+660;Korbyn Moses;Palcos;1 ;3 
+32;Clara Bautista;Tribuna Norte;3 ;1 
+324;Clara Bautista;Tribuna Norte;3 ;1 
+31;Marcos Serrano;Socios;12 ;2 
+323;Marcos Serrano;Socios;12 ;2 
+42;Carmen Méndez;Tribuna Sur;11 ;4 
+334;Carmen Méndez;Tribuna Sur;11 ;4 
+673;Martha Robinson;Palcos;4 ;3 
+690;Elias Santana;Tribuna Oeste;1 ;2 
+25;Adrián Mendoza;Tribuna Norte;5 ;3 
+317;Adrián Mendoza;Tribuna Norte;5 ;3 
+39;Tomás Delgado;Tribuna Sur;10 ;3 
+331;Tomás Delgado;Tribuna Sur;10 ;3 
+93;David Velasco;Tribuna Norte;3 ;2 
+385;David Velasco;Tribuna Norte;3 ;2 
+654;Lane Ochoa;Socios;2 ;2 
+400;Sofia Moreno;Tribuna Oeste;3 ;4 
+149;Julia Quintana;Tribuna Norte;8 ;3 
+499;Alma Proctor;Palcos;6 ;3 
+820;Jeremias Branch;Tribuna Oeste;7 ;2 
+655;Luciana Bridges;Palcos;12 ;1 
+130;Isabel Ramos;Tribuna Norte;6 ;2 
+444;Jakari Buckley;Tribuna Oeste;6 ;3 
+812;Tatum Frederick;Palcos;12 ;2 
+817;Phoenix Keller;Socios;3 ;4 
+977;Elora Salgado;Socios;12 ;1 
+498;Vicente Cochran;Tribuna Norte;8 ;2 
+226;Marcos Salinas;Tribuna Oeste;12 ;4 
+53;Lola Alcázar;Tribuna Sur;7 ;3 
+345;Lola Alcázar;Tribuna Sur;7 ;3 
+227;Ángela Quintana;Tribuna Oeste;7 ;2 
+805;Kallie Stark;Socios;6 ;3 
+38;Ángela Soto;Palcos;5 ;4 
+330;Ángela Soto;Palcos;5 ;4 
+602;Rafael Ortega;Tribuna Sur;10 ;3 
+47;Rafaela Chávez;Tribuna Norte;8 ;4 
+339;Rafaela Chávez;Tribuna Norte;8 ;4 
+442;Mathew Mathews;Tribuna Sur;5 ;4 
+258;Carla Montes;Tribuna Norte;9 ;4 
+496;Paxton Pugh;Tribuna Sur;9 ;2 
+476;Baylor Blackwell;Tribuna Norte;1 ;3 
+402;Andrea Álvarez;Tribuna Norte;6 ;3 
+593;Aaliyah Ramirez;Tribuna Sur;7 ;1 
+150;César Correa;Tribuna Sur;3 ;1 
+237;Francisco Navas;Tribuna Norte;7 ;1 
+72;Adriana Valdés;Socios;11 ;1 
+364;Adriana Valdés;Socios;11 ;1 
+472;Samson Gaines;Tribuna Sur;11 ;3 
+407;Francisco Alonso;Tribuna Oeste;7 ;4 
+20;Ana Rojas;Palcos;11 ;4 
+312;Ana Rojas;Palcos;11 ;4 
+800;Paxton Dalton;Tribuna Norte;2 ;2 
+247;Rafael Reyes;Tribuna Norte;7 ;4 
+539;Amora Ibarra;Palcos;1 ;3 
+184;Bianca Lozoya;Socios;5 ;3 
+938;Kenji Espinoza;Palcos;9 ;3 
+411;Etta Flores;Tribuna Sur;7 ;2 
+996;Blaise Bullock;Palcos;7 ;1 
+36;Teresa Luna;Tribuna Norte;11 ;4 
+328;Teresa Luna;Tribuna Norte;11 ;4 
+152;Joaquín Ramírez;Palcos;12 ;3 
+925;Amari Douglas;Tribuna Oeste;2 ;3 
+628;Bishop Miller;Tribuna Sur;8 ;1 
+228;Tomás Correa;Palcos;3 ;3 
+71;Julieta Ochoa;Tribuna Norte;8 ;4 
+363;Julieta Ochoa;Tribuna Norte;8 ;4 
+661;Karter Foley;Tribuna Sur;3 ;2 
+222;Santiago Domínguez;Tribuna Norte;10 ;3 
+876;Alonzo Simon;Socios;7 ;4 
+14;Paula Díaz;Tribuna Oeste;2 ;3 
+114;Paula Díaz;Tribuna Oeste;2 ;3 
+306;Paula Díaz;Tribuna Oeste;2 ;3 
+946;Elisha Ferguson;Socios;4 ;1 
+466;Dion Reyna;Tribuna Oeste;11 ;3 
+642;Onyx Le;Palcos;6 ;3 
+453;Ada Kent;Tribuna Sur;11 ;2 
+885;Aspen Tate;Palcos;9 ;1 
+949;Sariyah Matthews;Tribuna Oeste;5 ;1 
+733;Zara Dyer;Tribuna Oeste;9 ;2 
+879;Amaris Carey;Tribuna Oeste;5 ;3 
+82;Fátima Ponce;Tribuna Norte;10 ;4 
+374;Fátima Ponce;Tribuna Norte;10 ;4 
+829;Angel Leach;Tribuna Sur;8 ;1 
+531;Emerie Myers;Palcos;1 ;1 
+229;Isabel Medina;Palcos;7 ;3 
+802;Steven Paul;Socios;4 ;3 
+930;Cohen Lloyd;Tribuna Oeste;5 ;1 
+120;Julia Rojas;Tribuna Oeste;6 ;3 
+77;Antonio Prado;Tribuna Oeste;5 ;4 
+369;Antonio Prado;Tribuna Oeste;5 ;4 
+916;Anders Odom;Palcos;12 ;1 
+975;Jaelynn Stewart;Socios;1 ;4 
+629;Isabella Haley;Tribuna Norte;12 ;4 
+878;Ian Magana;Tribuna Sur;9 ;3 
+767;Kora Fleming;Tribuna Norte;2 ;4 
+707;Heaven Anderson;Palcos;9 ;3 
+859;Isla Buck;Tribuna Oeste;10 ;2 
+639;Diana Schmidt;Tribuna Sur;2 ;3 
+744;Martin Cochran;Palcos;9 ;4 
+234;Enrique Alarcón;Palcos;6 ;2 
+958;Justice Krueger;Palcos;11 ;3 
+622;Bear Wright;Tribuna Sur;9 ;4 
+727;Cataleya Carr;Tribuna Sur;6 ;1 
+985;Nyla Jacobs;Socios;6 ;1 
+105;Elena Ruiz;Socios;11 ;3 
+2;Lucía Fernández;Tribuna Norte;2 ;3 
+294;Lucía Fernández;Tribuna Norte;2 ;3 
+425;Maisie Bernard;Tribuna Sur;8 ;1 
+231;Carmen Alcázar;Tribuna Sur;3 ;4 
+191;Mario Segura;Tribuna Sur;7 ;4 
+58;Rafael Lozano;Socios;5 ;4 
+350;Rafael Lozano;Socios;5 ;4 
+520;Andy Choi;Palcos;3 ;3 
+84;Inés Lozoya;Tribuna Oeste;1 ;2 
+376;Inés Lozoya;Tribuna Oeste;1 ;2 
+74;Gabriela Castillo;Socios;8 ;2 
+366;Gabriela Castillo;Socios;8 ;2 
+209;Camila Serrano;Tribuna Sur;3 ;2 
+584;Idris Wilkinson;Socios;2 ;2 
+862;Kaysen Orozco;Tribuna Norte;1 ;2 
+606;Tru Schneider;Tribuna Sur;4 ;3 
+30;Irene Ramos;Tribuna Norte;8 ;3 
+322;Irene Ramos;Tribuna Norte;8 ;3 
+954;Anders Hardy;Tribuna Sur;3 ;2 
+68;Bruno Caballero;Socios;1 ;3 
+360;Bruno Caballero;Socios;1 ;3 
+646;Jerry Wolfe;Palcos;4 ;3 
+564;Messiah Garrison;Tribuna Oeste;9 ;2 
+772;Josiah Drake;Tribuna Norte;1 ;4 
+70;Jaime Estrada;Socios;12 ;3 
+362;Jaime Estrada;Socios;12 ;3 
+945;Poppy Enriquez;Palcos;11 ;4 
+740;Dillon Larson;Socios;2 ;3 
+669;Evangeline Schwartz;Tribuna Norte;9 ;3 
+56;Óscar Alarcón;Tribuna Oeste;2 ;2 
+348;Óscar Alarcón;Tribuna Oeste;2 ;2 
+899;Baylee Garner;Socios;3 ;3 
+905;Gianna Page;Tribuna Sur;7 ;1 
+90;Lidia Márquez;Palcos;3 ;1 
+382;Lidia Márquez;Palcos;3 ;1 
+52;Gonzalo Ramírez;Socios;9 ;2 
+344;Gonzalo Ramírez;Socios;9 ;2 
+726;Philip Page;Palcos;6 ;4 
+283;Bianca Cruz;Tribuna Sur;3 ;4 
+731;Zoey Lane;Tribuna Oeste;9 ;4 
+493;Charley Bell;Tribuna Oeste;1 ;1 
+995;Emmaline McCarty;Tribuna Sur;10 ;4 
+46;Alicia Solís;Palcos;3 ;4 
+338;Alicia Solís;Palcos;3 ;4 
+274;Jesús Duarte;Socios;1 ;2 
+35;Mario Villanueva;Tribuna Sur;2 ;4 
+327;Mario Villanueva;Tribuna Sur;2 ;4 
+33;Hugo Pacheco;Tribuna Norte;12 ;1 
+325;Hugo Pacheco;Tribuna Norte;12 ;1 
+743;Sabrina Banks;Palcos;8 ;1 
+560;Harris Yu;Tribuna Oeste;7 ;1 
+578;Ermias Burns;Tribuna Sur;2 ;2 
+475;Jaliyah Todd;Tribuna Oeste;2 ;2 
+119;Samuel Flores;Palcos;9 ;3 
+83;Fernando Gallardo;Tribuna Oeste;6 ;4 
+375;Fernando Gallardo;Tribuna Oeste;6 ;4 
+597;Roselyn Santos;Tribuna Sur;5 ;2 
+689;Kara Evans;Palcos;10 ;1 
+89;Alejandro Robles;Tribuna Norte;6 ;1 
+381;Alejandro Robles;Tribuna Norte;6 ;1 
+830;Westin Flynn;Tribuna Sur;9 ;2 
+699;Holly Scott;Socios;11 ;2 
+461;Sloane McDonald;Tribuna Sur;7 ;2 
+3;Diego López;Palcos;10 ;3 
+295;Diego López;Palcos;10 ;3 
+47;Rafaela Chávez;Tribuna Sur;10 ;1 
+339;Rafaela Chávez;Tribuna Sur;10 ;1 
+648;Karson Pratt;Tribuna Norte;9 ;3 
+6;Elena García;Tribuna Norte;4 ;3 
+298;Elena García;Tribuna Norte;4 ;3 
+59;Julia Navas;Socios;2 ;4 
+351;Julia Navas;Socios;2 ;4 
+278;Alejandro Romero;Tribuna Oeste;12 ;1 
+509;Thea Archer;Palcos;8 ;1 
+61;Miriam Beltrán;Palcos;4 ;2 
+353;Miriam Beltrán;Palcos;4 ;2 
+403;Miguel Martín;Tribuna Oeste;9 ;2 
+106;Manuel García;Tribuna Norte;4 ;4 
+215;Clara Fuentes;Tribuna Norte;8 ;3 
+640;Zayden Daniel;Tribuna Sur;9 ;2 
+957;Skylar Benitez;Socios;9 ;2 
+483;Zara Rhodes;Socios;10 ;1 
+909;Norah Howell;Socios;4 ;1 
+27;Santiago León;Tribuna Sur;1 ;2 
+319;Santiago León;Tribuna Sur;1 ;2 
+91;Álvaro Segura;Socios;3 ;1 
+383;Álvaro Segura;Socios;3 ;1 
+11;Daniel Pérez;Tribuna Oeste;9 ;4 
+303;Daniel Pérez;Tribuna Oeste;9 ;4 
+789;Elodie Howard;Tribuna Sur;4 ;2 
+262;Lucas Lozoya;Tribuna Oeste;5 ;1 
+424;Cairo Dennis;Tribuna Sur;7 ;4 
+887;Monroe Hubbard;Socios;5 ;1 
+760;Dominik Church;Tribuna Oeste;4 ;1 
+128;Ángela Campos;Tribuna Oeste;2 ;1 
+25;Adrián Mendoza;Tribuna Oeste;2 ;2 
+317;Adrián Mendoza;Tribuna Oeste;2 ;2 
+54;Felipe Acosta;Tribuna Sur;4 ;3 
+346;Felipe Acosta;Tribuna Sur;4 ;3 
+31;Marcos Serrano;Palcos;10 ;1 
+323;Marcos Serrano;Palcos;10 ;1 
+60;César Ávila;Socios;10 ;4 
+352;César Ávila;Socios;10 ;4 
+462;Calvin Owens;Tribuna Oeste;9 ;2 
+665;Samara Rivera;Palcos;8 ;2 
+40;Isabel Peña;Socios;3 ;4 
+332;Isabel Peña;Socios;3 ;4 
+404;Patricia Santos;Socios;9 ;1 
+87;Sergio Cáceres;Tribuna Oeste;5 ;3 
+379;Sergio Cáceres;Tribuna Oeste;5 ;3 
+773;Jayleen Cameron;Tribuna Oeste;11 ;1 
+413;Luna Tucker;Tribuna Sur;3 ;4 
+624;Memphis Zhang;Palcos;5 ;2 
+535;Layla Wong;Palcos;10 ;3 
+874;Philip Medina;Tribuna Oeste;4 ;2 
+807;Lila Shah;Socios;8 ;4 
+458;Connor Bradshaw;Tribuna Oeste;12 ;1 
+289;Rosa Pacheco;Socios;5 ;3 
+601;Mylah Larson;Socios;10 ;2 
+579;Emerson Gallegos;Tribuna Oeste;12 ;2 
+849;Amara Romero;Tribuna Norte;8 ;2 
+562;Adriel Daniel;Palcos;9 ;1 
+794;Hudson Murray;Socios;4 ;3 
+913;Malaya Daugherty;Socios;7 ;1 
+556;Robert Dickerson;Tribuna Norte;2 ;1 
+51;Eva Medina;Tribuna Sur;6 ;1 
+343;Eva Medina;Tribuna Sur;6 ;1 
+675;Iris Quinn;Tribuna Norte;8 ;4 
+546;Randy Bradford;Tribuna Norte;12 ;4 
+270;Cristian Cabral;Socios;7 ;4 
+523;August Cortez;Palcos;7 ;3 
+855;Edith Bennett;Tribuna Norte;8 ;1 
+8;Sofía Vargas;Tribuna Sur;7 ;1 
+300;Sofía Vargas;Tribuna Sur;7 ;1 
+251;Joaquín Trejo;Tribuna Oeste;5 ;4 
+170;Marina Estrada;Tribuna Norte;7 ;1 
+786;Calvin Reed;Tribuna Norte;10 ;1 
+474;Douglas Velazquez;Tribuna Sur;3 ;2 
+110;Camila Moreno;Palcos;5 ;1 
+217;Ana Delgado;Tribuna Norte;7 ;2 
+446;Rylan Taylor;Tribuna Norte;9 ;1 
+745;Alma Gilmore;Palcos;2 ;3 
+418;Odin Hickman;Tribuna Sur;4 ;4 
+510;Ephraim Brewer;Tribuna Norte;12 ;2 
+815;Adeline Saunders;Palcos;7 ;4 
+570;Jett Allen;Tribuna Norte;1 ;2 
+933;Allyson Olsen;Tribuna Oeste;2 ;2 
+3;Diego López;Socios;9 ;2 
+295;Diego López;Socios;9 ;2 
+394;Laura Martínez;Tribuna Oeste;10 ;3 
+565;Cadence Hudson;Tribuna Norte;7 ;1 
+288;Andrés Bautista;Tribuna Sur;12 ;2 
+694;Troy Boyle;Socios;10 ;3 
+173;Fernando Trejo;Tribuna Oeste;7 ;2 
+581;Ayla Chandler;Palcos;6 ;1 
+932;Zayne Vincent;Tribuna Sur;3 ;2 
+917;Laylani Conrad;Tribuna Oeste;10 ;3 
+70;Jaime Estrada;Palcos;3 ;1 
+362;Jaime Estrada;Palcos;3 ;1 
+657;Ashlyn Mendez;Tribuna Norte;2 ;3 
+763;Ryan Odom;Palcos;11 ;1 
+482;Malakai Carroll;Tribuna Oeste;6 ;1 
+586;Caden McClain;Tribuna Oeste;4 ;4 
+799;Anaya Bishop;Tribuna Norte;5 ;4 
+98;Cristina Lara;Palcos;3 ;4 
+390;Cristina Lara;Palcos;3 ;4 
+540;Asa Peralta;Palcos;6 ;1 
+734;Atreus Dorsey;Tribuna Norte;11 ;2 
+728;Kash Spence;Palcos;12 ;3 
+230;Pablo Ramírez;Tribuna Norte;3 ;3 
+501;Phoenix Williamson;Tribuna Sur;8 ;3 
+85;Jesús Benítez;Tribuna Oeste;9 ;4 
+377;Jesús Benítez;Tribuna Oeste;9 ;4 
+161;Julieta Beltrán;Tribuna Sur;4 ;1 
+940;Eddie Montes;Socios;9 ;4 
+65;Alejandra Carrillo;Socios;12 ;2 
+357;Alejandra Carrillo;Socios;12 ;2 
+608;Graysen Holt;Socios;7 ;1 
+986;Bryan Ellison;Tribuna Norte;3 ;3 
+895;Allie Conrad;Palcos;7 ;4 
+420;Barrett Kramer;Tribuna Sur;1 ;4 
+68;Bruno Caballero;Tribuna Sur;3 ;2 
+360;Bruno Caballero;Tribuna Sur;3 ;2 
+146;Óscar Solís;Tribuna Sur;6 ;2 
+515;Lauryn Alfaro;Tribuna Sur;4 ;4 
+612;Callahan Greene;Socios;7 ;2 
+519;Jessica Aguirre;Tribuna Sur;3 ;3 
+506;Musa Rodgers;Palcos;1 ;2 
+705;Elena Rasmussen;Socios;9 ;2 
+771;Daphne Roberts;Tribuna Sur;6 ;4 
+825;Reese Chung;Tribuna Norte;8 ;4 
+480;Bronson Mann;Tribuna Oeste;3 ;1 
+544;Jabari Fitzgerald;Tribuna Oeste;8 ;1 
