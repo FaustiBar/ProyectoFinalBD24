@@ -1,0 +1,1 @@
+SELECT * FROM mydb.actividades_del_club;
